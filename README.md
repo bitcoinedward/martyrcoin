@@ -1,0 +1,2 @@
+# martyrcoin
+altcoin project
